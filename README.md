@@ -1,11 +1,15 @@
-# Z80 Debugger 
-Another PCB made for Z80 + PIC18F4520 to debug, test-run & verify code.
+# Z80-TestBoard
+Another test-NOP board for Z80 without SRAM but PIC18F4520 feeding DATA.
 
 ### Note
-I have never had a real working Z80 before so this board is designed to test that if I can get one.
+A Strip-off version of Z80-Debugger but: 
+- No SRAM
+- No MicroSD
+- Feeding DATA from UART
+- Display State from I2C Display 
 
 ### Preview 
-![Alt](https://github.com/thetrung/Z80-Debugger/blob/main/3D_Preview.png)
+![Alt](https://github.com/thetrung/Z80-TestBoard/blob/main/3D_Preview.png)
 
 ### Schematic 
-![Alt](https://github.com/thetrung/Z80-Debugger/blob/main/Schematic.png)
+![Alt](https://github.com/thetrung/Z80-TestBoard/blob/main/Schematic.png)
