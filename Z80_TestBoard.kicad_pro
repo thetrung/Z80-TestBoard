@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../../Downloads/Z80-Debugger/",
+      "plot": "../../../Downloads/Z80-TestBoard/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -648,7 +648,7 @@
         "uuid": "1dee2e6f-8929-455d-a1de-5fd790cf69ac"
       }
     ],
-    "used_designators": "R9-23,D2-16,#PWR4,#PWR6-7,#PWR9,#PWR12,#PWR19-20,#PWR29-38,U3",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
