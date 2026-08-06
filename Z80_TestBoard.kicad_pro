@@ -646,15 +646,33 @@
         "filename": "Z80_TestBoard.kicad_sch",
         "name": "Root",
         "uuid": "1dee2e6f-8929-455d-a1de-5fd790cf69ac"
+      },
+      {
+        "filename": "led_board.kicad_sch",
+        "name": "LED_Board",
+        "uuid": "c2c95752-6e25-4ab3-8122-dc5a7c55ca00"
+      },
+      {
+        "filename": "sop28-dip38.kicad_sch",
+        "name": "SOP28-DIP28",
+        "uuid": "393db900-78ce-4d44-a47c-ed7820a934f2"
       }
     ],
-    "used_designators": "RN1-2,J8,R9-30,C8,C10-12,D1-10,#PWR3-7,#PWR9,#PWR19-20,#PWR25-29,RV1,SW1-2,U2-3",
+    "used_designators": "#FLG2-3,#PWR12-15,J1-2,J4,J9-31",
     "variants": []
   },
   "sheets": [
     [
       "1dee2e6f-8929-455d-a1de-5fd790cf69ac",
       "Root"
+    ],
+    [
+      "c2c95752-6e25-4ab3-8122-dc5a7c55ca00",
+      "LED_Board"
+    ],
+    [
+      "393db900-78ce-4d44-a47c-ed7820a934f2",
+      "SOP28-DIP28"
     ]
   ],
   "text_variables": {},
