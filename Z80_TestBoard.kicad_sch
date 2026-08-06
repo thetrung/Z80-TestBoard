@@ -5,7 +5,7 @@
 	(uuid "1dee2e6f-8929-455d-a1de-5fd790cf69ac")
 	(paper "A4")
 	(title_block
-		(title "Z80-PLCC TestBoard")
+		(title "Z80-PLCC-NOP-TEST")
 	)
 	(lib_symbols
 		(symbol "CPU:Z84C00_PLCC"

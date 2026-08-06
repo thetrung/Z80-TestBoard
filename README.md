@@ -10,6 +10,9 @@ A Strip-off version of Z80-Debugger but:
 
 ### Preview 
 ![Alt](https://github.com/thetrung/Z80-TestBoard/blob/main/3D_Preview.png)
+### SilkScreen
+![Alt](https://github.com/thetrung/Z80-TestBoard/blob/main/SilkScreen.png)
+
 
 ### Schematic 
 ![Alt](https://github.com/thetrung/Z80-TestBoard/blob/main/Schematic.png)
