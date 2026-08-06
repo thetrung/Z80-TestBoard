@@ -1,12 +1,11 @@
 # Z80-TestBoard
-Another test-NOP board for Z80 without SRAM but PIC18F4520 feeding DATA.
+Another test-NOP board for Z80 with NE555P.
 
 ### Note
-A Strip-off version of Z80-Debugger but: 
-- No SRAM
-- No MicroSD
-- Feeding DATA from UART
-- Display State from I2C Display 
+A Strip-off version of Z80-Debugger but nothing rather than :
+- Z80-NOP testboard for PLCC-44 package
+- SOP28-DIP28 socket converter
+- Tiny LED 5V power board 
 
 ### Preview 
 ![Alt](https://github.com/thetrung/Z80-TestBoard/blob/main/3D_Preview.png)
